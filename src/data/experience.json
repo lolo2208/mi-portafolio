@@ -1,0 +1,86 @@
+[
+    {
+        "puesto": "Analista de Sistemas",
+        "empresa": "ISoluciones Integrales",
+        "periodo": "jun. 2024 – presente",
+        "descripcion": "Desarrollo de plataformas web y servicios de monitorización para optimizar la gestión empresarial. Implementación de app móvil con Flutter y OpenStreetMap, e integración de procesos automatizados con Python y .NET Core.",
+        "tecnologias": [
+            {
+                "title": "Angular 16",
+                "icon": "/src/assets/icons/angular.png"
+            },
+            {
+                "title": ".NET Core 6",
+                "icon": "/src/assets/icons/dotnet.png"
+            },
+            {
+                "title": "SignalR",
+                "icon": "/src/assets/icons/signalr.png"
+            },
+            {
+                "title": "Flutter",
+                "icon": "/src/assets/icons/flutter.png"
+            },
+            {
+                "title": "Python",
+                "icon": "/src/assets/icons/python.png"
+            },
+            {
+                "title": "SQL Server",
+                "icon": "/src/assets/icons/sqlserver.png"
+            }
+        ]
+    },
+    {
+        "puesto": "Full Stack Developer",
+        "empresa": "Dilvant",
+        "periodo": "ago. 2023 – may. 2024",
+        "descripcion": "Desarrollo de un CRM progresivo (PWA) para gestión comercial. Creación de APIs REST y microservicios con autenticación JWT, comunicación en tiempo real con Socket.io y MongoDB.",
+        "tecnologias": [
+            {
+                "title": "Angular",
+                "icon": "/src/assets/icons/angular.png"
+            },
+            {
+                "title": "Node.js",
+                "icon": "/src/assets/icons/node.png"
+            },
+            {
+                "title": "Express",
+                "icon": "/src/assets/icons/express.png"
+            },
+            {
+                "title": "Socket.io",
+                "icon": "/src/assets/icons/socketio.png"
+            },
+            {
+                "title": "MongoDB",
+                "icon": "/src/assets/icons/mongodb.png"
+            }
+        ]
+    },
+    {
+        "puesto": "Full Stack Developer",
+        "empresa": "Smart & Best All S.A.C.",
+        "periodo": "abr. 2022 – ago. 2023",
+        "descripcion": "Desarrollo de módulos CRM y servicios REST para sistemas empresariales. Migración de frameworks y mejora del rendimiento de aplicaciones web internas.",
+        "tecnologias": [
+            {
+                "title": "Angular",
+                "icon": "/src/assets/icons/angular.png"
+            },
+            {
+                "title": "ASP.NET Core",
+                "icon": "/src/assets/icons/dotnet.png"
+            },
+            {
+                "title": "C#",
+                "icon": "/src/assets/icons/csharp.png"
+            },
+            {
+                "title": "PrimeNG",
+                "icon": "/src/assets/icons/primeng.png"
+            }
+        ]
+    }
+]
