@@ -7,27 +7,27 @@
         "tecnologias": [
             {
                 "title": "Angular 16",
-                "icon": "/src/assets/icons/angular.png"
+                "icon": "/icons/angular.png"
             },
             {
                 "title": ".NET Core 6",
-                "icon": "/src/assets/icons/dotnet.png"
+                "icon": "/icons/dotnet.png"
             },
             {
                 "title": "SignalR",
-                "icon": "/src/assets/icons/signalr.png"
+                "icon": "/icons/signalr.png"
             },
             {
                 "title": "Flutter",
-                "icon": "/src/assets/icons/flutter.png"
+                "icon": "/icons/flutter.png"
             },
             {
                 "title": "Python",
-                "icon": "/src/assets/icons/python.png"
+                "icon": "/icons/python.png"
             },
             {
                 "title": "SQL Server",
-                "icon": "/src/assets/icons/sqlserver.png"
+                "icon": "/icons/sqlserver.png"
             }
         ]
     },
@@ -39,23 +39,23 @@
         "tecnologias": [
             {
                 "title": "Angular",
-                "icon": "/src/assets/icons/angular.png"
+                "icon": "/icons/angular.png"
             },
             {
                 "title": "Node.js",
-                "icon": "/src/assets/icons/node.png"
+                "icon": "/icons/node.png"
             },
             {
                 "title": "Express",
-                "icon": "/src/assets/icons/express.png"
+                "icon": "/icons/express.png"
             },
             {
                 "title": "Socket.io",
-                "icon": "/src/assets/icons/socketio.png"
+                "icon": "/icons/socketio.png"
             },
             {
                 "title": "MongoDB",
-                "icon": "/src/assets/icons/mongodb.png"
+                "icon": "/icons/mongodb.png"
             }
         ]
     },
@@ -67,19 +67,19 @@
         "tecnologias": [
             {
                 "title": "Angular",
-                "icon": "/src/assets/icons/angular.png"
+                "icon": "/icons/angular.png"
             },
             {
                 "title": "ASP.NET Core",
-                "icon": "/src/assets/icons/dotnet.png"
+                "icon": "/icons/dotnet.png"
             },
             {
                 "title": "C#",
-                "icon": "/src/assets/icons/csharp.png"
+                "icon": "/icons/csharp.png"
             },
             {
                 "title": "PrimeNG",
-                "icon": "/src/assets/icons/primeng.png"
+                "icon": "/icons/primeng.png"
             }
         ]
     }
