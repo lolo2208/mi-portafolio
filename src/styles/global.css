@@ -1,5 +1,4 @@
 /* GLOBAL */
-
 * {
     margin: 0;
     padding: 0;
@@ -17,7 +16,6 @@ main {
 }
 
 /* NAVBAR */
-
 nav {
     display: flex;
     flex-direction: row;
@@ -38,6 +36,7 @@ nav.fixed {
     background: rgba(50, 50, 50, 0.60);
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 }
+
 .nav-item {
     color: white;
     text-decoration: none;
@@ -45,7 +44,6 @@ nav.fixed {
 }
 
 /* FOOTER */
-
 footer {
     position: fixed;
     bottom: 0;
@@ -62,17 +60,18 @@ footer.relative {
 }
 
 .footer-desc {
+    display: block;
     padding: 0.75rem 1.25rem 0.75rem 1.25rem;
     text-align: center;
 }
 
 /* CONTAINERS */
 .section-container {
-    height: 100%;
+    min-height: 100%;
 }
 
 .hero {
-    height: 100%;
+    min-height: 100%;
     padding: 64px 16px;
     display: flex;
     justify-content: center;
@@ -83,15 +82,23 @@ footer.relative {
     .section-container {
         display: flex;
         flex-direction: column;
+        height: auto;
     }
 
     .hero {
         display: block;
         padding-top: 10%;
+        height: auto;
     }
 }
 
 /* WELCOME */
+#container_welcome {
+    background: #0f2027;
+    background: -webkit-linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+}
+
 .welcome-content {
     display: flex;
     flex-direction: row;
@@ -126,6 +133,12 @@ footer.relative {
 }
 
 /* EXPERIENCE */
+#container_experience {
+    background: #141e30;
+    background: -webkit-linear-gradient(to right, #141e30, #243b55);
+    background: linear-gradient(to right, #141e30, #243b55)
+}
+
 .experience-content {
     display: flex;
     flex-direction: column;
@@ -166,6 +179,13 @@ footer.relative {
     flex-direction: row;
     justify-content: start;
     align-items: center;
+}
+
+/* PROJECTS */
+#container_projects {
+    background: #000000;
+    background: -webkit-linear-gradient(to right, #000000, #434343);
+    background: linear-gradient(to right, #000000, #434343);
 }
 
 /* FLEX */
